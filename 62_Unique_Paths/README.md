@@ -25,6 +25,6 @@ In particular, we note that we can define the number of unique paths traversing 
 
 Knowing also that the only allowed directions are right and down, we can initialise to 1 all cells that are at the beginning of the row or the beginning of the column. 
 
-![](img/solve.png)
+![](img/solve.PNG)
 
 
