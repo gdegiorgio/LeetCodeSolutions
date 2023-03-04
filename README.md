@@ -8,6 +8,7 @@ I will try to explain the reasoning behind the solutions in an understandable wa
 
 ## *Table of Contents:*
 - [62. UniquePaths : ](https://github.com/gdegiorgio/LeetCodeSolutions/tree/main/62_Unique_Paths) A small robot must cross a grid from the top left corner to the bottom right corner, moving only to the right or downwards. How many paths can it take?
+- [100. SameTree : ](https://github.com/gdegiorgio/LeetCodeSolutions/tree/main/100_Same_Tree) Let's check if two Binary Search Tree are identical
 
 
 
